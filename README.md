@@ -1,3 +1,11 @@
 # FORGEJO-TESTING
 
-HELLO ASTA LA VISTA
+Test repository for Forgejo.
+
+## Layout
+- `src/` - Python modules (calculator)
+- `tests/` - pytest tests
+
+## Run tests
+    pip install pytest
+    pytest
